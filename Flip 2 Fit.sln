@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flip 2 Fit", "Flip 2 Fit.csproj", "{D6E38094-D232-737D-6F35-77FEBE91B4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flip 2 Fit.Plugins", "Flip 2 Fit.Plugins.csproj", "{FE9D6613-8B91-09F2-097F-D5C5C72E17F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flip 2 Fit.Editor", "Flip 2 Fit.Editor.csproj", "{E8DDBCED-32A4-8CEC-DB30-1FEEF28C3FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flip 2 Fit.Editor.Plugins", "Flip 2 Fit.Editor.Plugins.csproj", "{F7694DFA-A95F-C9C2-957C-0079723B0861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E38094-D232-737D-6F35-77FEBE91B4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E38094-D232-737D-6F35-77FEBE91B4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E38094-D232-737D-6F35-77FEBE91B4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E38094-D232-737D-6F35-77FEBE91B4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9D6613-8B91-09F2-097F-D5C5C72E17F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9D6613-8B91-09F2-097F-D5C5C72E17F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9D6613-8B91-09F2-097F-D5C5C72E17F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9D6613-8B91-09F2-097F-D5C5C72E17F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DDBCED-32A4-8CEC-DB30-1FEEF28C3FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DDBCED-32A4-8CEC-DB30-1FEEF28C3FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DDBCED-32A4-8CEC-DB30-1FEEF28C3FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DDBCED-32A4-8CEC-DB30-1FEEF28C3FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7694DFA-A95F-C9C2-957C-0079723B0861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7694DFA-A95F-C9C2-957C-0079723B0861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7694DFA-A95F-C9C2-957C-0079723B0861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7694DFA-A95F-C9C2-957C-0079723B0861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
